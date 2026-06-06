@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("solar-system.jpg")
+img = cv2.imread("assets/img/solar-system.jpg")
 
 cv2.putText(img,
             "Sol",
@@ -70,4 +70,4 @@ cv2.imshow("resultado",img)
 cv2.waitKey(0)
 
 
-cv2.imwrite("Solar_systemwithname.jpg",img)
+cv2.imwrite("assets/img/Solar-system-with-names.jpg",img)
