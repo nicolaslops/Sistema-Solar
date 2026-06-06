@@ -1,8 +1,3 @@
-Ah, você quer o Markdown do projeto SISTEMA-SOLAR (o último que você mandou)! No susto acabei gerando o do helicóptero.
-
-Aqui está o arquivo README.md completinho e formatado em Markdown para o seu projeto SISTEMA-SOLAR:
-
-Markdown
 # SISTEMA-SOLAR
 
 ## Sobre o Projeto
